@@ -1,6 +1,3 @@
-![A forest full of trees](./images/intro.jpg)
-"Laurel forest, La Palma © Jasper Arends, Flickr Creative Commons"
-
 # Comparing Git trees in Go
 
 Author: Alberto Cortés
@@ -9,6 +6,8 @@ Date: 2017-03-21
 
 Originally published [here](https://github.com/src-d/blog/blob/f6947f0e95d24d76da4ca0f16705fcd3c6f65be3/content/post/difftree.md).
 
+![A forest full of trees](./images/intro.jpg)
+"Laurel forest, La Palma © Jasper Arends, Flickr Creative Commons"
 
 ## Introduction
 
